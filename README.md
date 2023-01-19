@@ -9,6 +9,7 @@ dennisabrams@github:~ ./hello.sh
 |  |(/,||(_)  (_][ )(_]   \/\/ (/,|(_.(_)[ | )(/,   | (_)  [ | )\_|  [_./| | [ )(_|[_)  |   [  (_)| ||(/, * 
                                                                 ._|                                         
 </pre>
+<pre>
 abrams@github:~/dennisabrams$ ls -a
 . .. .bash_history .bash_logout .bashrc .config .hal9000 .profile .viminfo hello.sh aboutme
 </pre>
