@@ -2,7 +2,7 @@
 <b>Software Developer from Germany</b>
 <img 
   align="left"
-  src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&size=20&color=C9D1D9&background=A5CBFF00&vCenter=true&pause=1500&width=400&height=30&lines=Frontend+Web+Development+😄;Backend+Development+😊;Full+Stack+Development+😇;Coding+in+general+😎"
+  src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&size=20&color=C9D1D9&background=A5CBFF00&vCenter=true&pause=1500&width=350&height=30&lines=Frontend+Web+Development+😄;Backend+Development+😊;Full+Stack+Development+😇;Coding+in+general+😎"
   alt="Software Development"
 />
 <img
