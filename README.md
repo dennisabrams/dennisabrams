@@ -12,16 +12,16 @@
 />
 <br/><br/><br/>
 <pre>
-dennisabrams@github:~ ./hell.sh
+dennisabrams@github:~$ ./hell.sh
 bash: ./hell.sh: No such file or directory
-dennisabrams@github:~ ./hello.sh
+dennisabrams@github:~$ ./hello.sh
 .  .   ..             .           .                 ,                .__   , .     .    .__       ._ .    | 
 |__| _ || _    _.._  _|  .    , _ | _. _ ._ _  _   -+- _   ._ _   .  [ __*-+-|_ . .|_   [__)._. _ |,*| _  | 
 |  |(/,||(_)  (_][ )(_]   \/\/ (/,|(_.(_)[ | )(/,   | (_)  [ | )\_|  [_./| | [ )(_|[_)  |   [  (_)| ||(/, * 
                                                                 ._|                                         
-abrams@github:~/dennisabrams$ ls -a
+dennisabrams@github:~$ ls -a
 . .. .bash_history .bash_logout .bashrc .config .hal9000 .profile .viminfo aboutme hello.sh projects repositories
-abrams@github:~/dennisabrams$ cd aboutme/
+dennisabrams@github:~$ cd aboutme/
 </pre>
 <h2>About me</h2>
 <p>
@@ -38,9 +38,9 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 </ul>
 <h4>Languages & Technologies</h4>
 
-`C` `Python` `Bash` `SQL` `PHP` `Sourcepawn` `HTML` `CSS` `JS` `Tailwind CSS` `React` `Next.js` `Framer Motion`
+`C` `Python` `Bash` `SQL` `PHP` `SourcePawn` `HTML` `CSS` `JS` `Tailwind CSS` `React` `Next.js` `Framer Motion`
 <pre>
-abrams@github:~/dennisabrams/aboutme$ exit
+dennisabrams@github:~/aboutme$ exit
 </pre>
 
 [profile]: https://github.com/dennisabrams
