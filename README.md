@@ -20,7 +20,7 @@ dennisabrams@github:~ ./hello.sh
 |  |(/,||(_)  (_][ )(_]   \/\/ (/,|(_.(_)[ | )(/,   | (_)  [ | )\_|  [_./| | [ )(_|[_)  |   [  (_)| ||(/, * 
                                                                 ._|                                         
 abrams@github:~/dennisabrams$ ls -a
-. .. .bash_history .bash_logout .bashrc .config .hal9000 .profile .viminfo aboutme hello.sh
+. .. .bash_history .bash_logout .bashrc .config .hal9000 .profile .viminfo aboutme hello.sh projects repositories
 abrams@github:~/dennisabrams$ cd aboutme/
 </pre>
 <h2>About me</h2>
@@ -36,5 +36,11 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
     I graduated from the <a href="https://bbs-me.de/index.php/startseite-dev-dropdown/fachoberschule-technik/">bbs|me</a> technical college, Department of Electrical Engineering ⚡.
   </li>
 </ul>
+<h4>Languages & Technologies</h4>
+
+`C` `Python` `Bash` `SQL` `PHP` `Sourcepawn` `HTML` `CSS` `JS` `Tailwind CSS` `React` `Next.js` `Framer Motion`
+<pre>
+abrams@github:~/dennisabrams/aboutme$ exit
+</pre>
 
 [profile]: https://github.com/dennisabrams
