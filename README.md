@@ -10,6 +10,7 @@
   src="https://komarev.com/ghpvc/?username=dennisabrams&color=58A6FF&style=for-the-badge"
   alt="dennisabrams-views"
 />
+<br/><br/><br/>
 <pre>
 dennisabrams@github:~ ./hell.sh
 bash: ./hell.sh: No such file or directory
