@@ -1,5 +1,5 @@
 # Hi there 👋, my name is [Dennis Abrams][profile]
-<b>State-certified IT assistant from Germany</b>
+<b><a href="https://europa.eu/europass/en/courses/qualification/1fd81238-6658-49c3-80e6-40dae614ca85">State-certified IT assistant</a> from Germany</b>
 <img 
   align="left"
   src="https://github.com/dennisabrams/dennisabrams/blob/main/images/typing.svg"
