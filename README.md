@@ -1,5 +1,5 @@
 # Hi there 👋, my name is [Dennis Abrams][profile]
-<b>Software Developer from Germany</b>
+<b>State-certified IT assistant from Germany</b>
 <img 
   align="left"
   src="https://github.com/dennisabrams/dennisabrams/blob/main/images/typing.svg"
