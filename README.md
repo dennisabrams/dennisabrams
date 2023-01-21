@@ -25,7 +25,7 @@ dennisabrams@github:~$ cd aboutme/
 </pre>
 <h2>About me</h2>
 <p>
-I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at the <a href="https://www.hs-hannover.de/en/">University of Applied Sciences and Arts</a> 🏛, Department of Media Design and Computer Science 🖥️. In my free time I do my own projects which I enjoy and learn a lot of new things 🖼. You can explore my projects on my website (in progress).
+I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at the <a href="https://www.hs-hannover.de/en/">University of Applied Sciences and Arts</a> 🏛, Department of Media Design and Computer Science 🖥️. In my free time I do my own projects which I enjoy and learn a lot of new things 🖼. You can explore my projects on <a href="https://dennis-abrams.com">my website</a>.
 </p>
 <h4>My degrees</h4>
 <ul>
@@ -38,7 +38,7 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 </ul>
 <h4>Languages & Technologies</h4>
 
-`C` `Python` `Bash` `SQL` `PHP` `SourcePawn` `HTML` `CSS` `JS` `Tailwind CSS` `React` `Next.js` `Framer Motion`
+`C` `Python` `Bash` `SQL` `PHP` `SourcePawn` `HTML` `CSS` `JS` `Tailwind CSS` `React JS` `Next.JS` `Framer Motion`
 <pre>
 dennisabrams@github:~/aboutme$ exit
 </pre>
