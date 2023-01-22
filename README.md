@@ -25,15 +25,15 @@ dennisabrams@github:~$ cd aboutme/
 </pre>
 <h2>About me</h2>
 <p>
-I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at the <a href="https://www.hs-hannover.de/en/" target="_blank">University of Applied Sciences and Arts</a> 🏛, Department of Media Design and Computer Science 🖥️. In my free time I do my own projects which I enjoy and learn a lot of new things 🖼. You can explore my projects on <a href="https://dennis-abrams.com" target="_blank">my website</a>.
+I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at the <a href="https://www.hs-hannover.de/en/">University of Applied Sciences and Arts</a> 🏛, Department of Media Design and Computer Science 🖥️. In my free time I do my own projects which I enjoy and learn a lot of new things 🖼. You can explore my projects on <a href="https://dennis-abrams.com">my website</a>.
 </p>
 <h4>My degrees</h4>
 <ul>
   <li>
-    I graduated from the <a href="https://bbs-me.de/index.php/berufsfachschule-informationstechn-assisitentin-bfi-2-2/" target="_blank">bbs|me</a> vocational school as an IT assistant 💻.
+    I graduated from the <a href="https://bbs-me.de/index.php/berufsfachschule-informationstechn-assisitentin-bfi-2-2/">bbs|me</a> vocational school as an IT assistant 💻.
   </li>
   <li>
-    I graduated from the <a href="https://bbs-me.de/index.php/startseite-dev-dropdown/fachoberschule-technik/" target="_blank">bbs|me</a> technical college, Department of Electrical Engineering ⚡.
+    I graduated from the <a href="https://bbs-me.de/index.php/startseite-dev-dropdown/fachoberschule-technik/">bbs|me</a> technical college, Department of Electrical Engineering ⚡.
   </li>
 </ul>
 <h4>Languages & Technologies</h4>
