@@ -1,5 +1,4 @@
 # Hi there 👋, my name is [Dennis Abrams][profile]
-<q><i>Creativity has no limits as long as enough memory space is available.</i></q>
 <img 
   align="left"
   src="https://github.com/dennisabrams/dennisabrams/blob/main/images/typing.svg"
@@ -10,7 +9,9 @@
   src="https://komarev.com/ghpvc/?username=dennisabrams&color=58A6FF&style=for-the-badge"
   alt="dennisabrams-views"
 />
-<br/><br/><br/>
+<br/><br/>
+<p align="center"><q><i><b>Creativity has no limits as long as enough memory space is available.</b></i></q></p>
+<br/>
 <pre>
 dennisabrams@github:~$ ./hell.sh
 bash: ./hell.sh: No such file or directory
