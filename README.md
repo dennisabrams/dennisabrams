@@ -1,5 +1,5 @@
 # Hi there 👋, my name is [Dennis Abrams][profile]
-<b><a href="https://europa.eu/europass/en/courses/qualification/1fd81238-6658-49c3-80e6-40dae614ca85">State-certified IT assistant</a> from Germany</b>
+<q><i>Creativity has no limits as long as enough memory space is available.</i></q>
 <img 
   align="left"
   src="https://github.com/dennisabrams/dennisabrams/blob/main/images/typing.svg"
@@ -30,7 +30,7 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 <h4>My degrees</h4>
 <ul>
   <li>
-    I graduated from the <a href="https://bbs-me.de/index.php/berufsfachschule-informationstechn-assisitentin-bfi-2-2/">bbs|me</a> vocational school as an IT assistant 💻.
+    I graduated from the <a href="https://bbs-me.de/index.php/berufsfachschule-informationstechn-assisitentin-bfi-2-2/">bbs|me</a> vocational school as an <a href="https://europa.eu/europass/en/courses/qualification/1fd81238-6658-49c3-80e6-40dae614ca85">state-certified IT assistant</a> 💻.
   </li>
   <li>
     I graduated from the <a href="https://bbs-me.de/index.php/startseite-dev-dropdown/fachoberschule-technik/">bbs|me</a> technical college, Department of Electrical Engineering ⚡.
