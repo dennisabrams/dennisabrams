@@ -39,7 +39,7 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 </ul>
 <h4>Languages & Technologies</h4>
 
-`C` `Python` `Java` `Bash` `SQL` `PHP` `SourcePawn` `LaTeX` `HTML` `CSS` `JS` `TS` `Tailwind CSS` `React.js` `Next.js` `Framer-Motion`
+`C` `Python` `Java` `Bash` `SQL` `PHP` `SourcePawn` `LaTeX` `HTML` `CSS` `AJAX` `JavaScript` `TypeScript` `Tailwind CSS` `Framer Motion` `React.js` `Next.js`
 <pre>
 dennisabrams@github:~/aboutme$ exit
 </pre>
