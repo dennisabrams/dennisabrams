@@ -16,10 +16,10 @@
 dennisabrams@github:~$ ./hell.sh
 bash: ./hell.sh: No such file or directory
 dennisabrams@github:~$ ./hello.sh
-.  .   ..             .           .                 ,                .__   , .     .    .__       ._ .    | 
-|__| _ || _    _.._  _|  .    , _ | _. _ ._ _  _   -+- _   ._ _   .  [ __*-+-|_ . .|_   [__)._. _ |,*| _  | 
-|  |(/,||(_)  (_][ )(_]   \/\/ (/,|(_.(_)[ | )(/,   | (_)  [ | )\_|  [_./| | [ )(_|[_)  |   [  (_)| ||(/, * 
-                                                                ._|                                         
+.  .   ..             .           .                 ,                .__   , .  .   .    .__       ._ .    | 
+|__| _ || _    _.._  _|  .    , _ | _. _ ._ _  _   -+- _   ._ _   .  [ __*-+-|__|. .|_   [__)._. _ |,*| _  | 
+|  |(/,||(_)  (_][ )(_]   \/\/ (/,|(_.(_)[ | )(/,   | (_)  [ | )\_|  [_./| | |  |(_|[_)  |   [  (_)| ||(/, * 
+                                                                ._|                                          
 dennisabrams@github:~$ ls -a
 . .. .bash_history .bash_logout .bashrc .config .hal9000 .profile .viminfo aboutme hello.sh projects repositories
 dennisabrams@github:~$ cd aboutme/
