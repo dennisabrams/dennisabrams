@@ -1,4 +1,4 @@
-# Hi there 👋, my name is [Dennis Abrams][profile]
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, my name is [Dennis Abrams][profile]
 <img 
   align="left"
   src="https://github.com/dennisabrams/dennisabrams/blob/main/images/typing.svg"
