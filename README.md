@@ -56,7 +56,7 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25" height="25"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/122950707/224750680-8facda47-719f-4eb3-bc3d-6b85d4f0e499.png" width="25" height="25"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/122950707/224750680-8facda47-719f-4eb3-bc3d-6b85d4f0e499.png" width="25" height="25"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="25" height="25"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/122950707/224752240-9c723bd1-375f-417b-9e42-a61261ec529f.png" width="25" height="25"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25"/>&nbsp;
