@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, my name is [Dennis Abrams][profile]
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, my name is [Dennis Abrams](https://github.com/dennisabrams)
 <img 
   align="left"
   src="https://github.com/dennisabrams/dennisabrams/blob/main/images/typing.svg"
@@ -67,7 +67,3 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 dennisabrams@github:~/aboutme$ exit
 </pre>
 
-
-<a href="https://github.com/itaditya#gh-light-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=itaditya&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
-  </a>
