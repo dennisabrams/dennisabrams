@@ -41,7 +41,28 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 <h4>Languages & Technologies</h4>
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dennisabrams&layout=compact&langs_count=6&bg_color=00000000&hide_border=true&hide_title=true&text_color=c9d1d9" />
 
-`C` `Python` `Java` `Bash` `SQL` `PHP` `SourcePawn` `LaTeX` `Git` `HTML` `CSS` `AJAX` `JavaScript` `TypeScript` `Tailwind CSS` `Framer Motion` `React.js` `Next.js`
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/122950707/224746123-1e2887c3-d31e-48b2-9082-ff176cad5bd0.png" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/122950707/224746668-4b67c94b-146e-4f41-80c1-27b5b8c39819.png" width="25" height="25"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/122950707/224748670-04706379-2d4c-41fd-be7c-dc0b9f3ea133.png" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/122950707/224750680-8facda47-719f-4eb3-bc3d-6b85d4f0e499.png" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="25" height="25"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/122950707/224752240-9c723bd1-375f-417b-9e42-a61261ec529f.png" width="25" height="25"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/122950707/224753389-327ee6b1-56e3-442c-8265-67fbf197f93a.png" width="25" height="25"/>&nbsp;
+</div>
+<br>
 <pre>
 dennisabrams@github:~/aboutme$ exit
 </pre>
