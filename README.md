@@ -61,11 +61,14 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="25" height="25"/></code>&nbsp;
 <code><img src="https://user-images.githubusercontent.com/122950707/224752240-9c723bd1-375f-417b-9e42-a61261ec529f.png" width="25" height="25"/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/122950707/224753389-327ee6b1-56e3-442c-8265-67fbf197f93a.png" width="25" height="25"/></code>&nbsp;
+<a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224753389-327ee6b1-56e3-442c-8265-67fbf197f93a.png#gh-dark-mode-only" width="25" height="25"/></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224854910-2e6bf496-7d9b-4375-989e-939e6e9c350a.png#light-mode-only" width="25" height="25"/></code></a>&nbsp;
 </div>
 <br>
 <pre>
 dennisabrams@github:~/aboutme$ exit
 </pre>
 
-[profile]: https://github.com/dennisabrams
+
+<a href="https://github.com/itaditya#gh-light-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=itaditya&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+  </a>
