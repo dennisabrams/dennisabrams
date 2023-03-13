@@ -39,7 +39,7 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
   </li>
 </ul>
 <h4>Languages & Technologies</h4>
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dennisabrams&layout=compact&hide_progress=true&bg_color=00000000&hide_border=true&hide_title=true&text_color=c9d1d9" />
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dennisabrams&layout=compact&langs_count=6&bg_color=00000000&hide_border=true&hide_title=true&text_color=c9d1d9" />
 
 `C` `Python` `Java` `Bash` `SQL` `PHP` `SourcePawn` `LaTeX` `Git` `HTML` `CSS` `AJAX` `JavaScript` `TypeScript` `Tailwind CSS` `Framer Motion` `React.js` `Next.js`
 <pre>
