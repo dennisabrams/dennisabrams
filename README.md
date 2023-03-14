@@ -42,28 +42,27 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dennisabrams&layout=compact&langs_count=6&bg_color=00000000&hide_border=true&hide_title=true&text_color=c9d1d9" />
 
 <div align="center">
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/></code>&nbsp;
-<a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224746123-1e2887c3-d31e-48b2-9082-ff176cad5bd0.png#gh-dark-mode-only" width="25" height="25"/></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg#light-mode-only" width="25" height="25"/></code></a>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/122950707/224746668-4b67c94b-146e-4f41-80c1-27b5b8c39819.png" width="25" height="25"/></code>&nbsp;
-<a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224748670-04706379-2d4c-41fd-be7c-dc0b9f3ea133.png" width="25" height="25"/></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224859537-7890e729-bc88-43e3-ba22-724d0062b0a6.png#light-mode-only" width="25" height="25"/></code></a>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/122950707/224750680-8facda47-719f-4eb3-bc3d-6b85d4f0e499.png" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/122950707/224752240-9c723bd1-375f-417b-9e42-a61261ec529f.png" width="25" height="25"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25"/></code>&nbsp;
-<a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224753389-327ee6b1-56e3-442c-8265-67fbf197f93a.png#gh-dark-mode-only" width="25" height="25"/></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224854910-2e6bf496-7d9b-4375-989e-939e6e9c350a.png#light-mode-only" width="25" height="25"/></code></a>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="25" height="25"/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="25" height="25"/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="25" height="25"/></code>&nbsp;
+<a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224746123-1e2887c3-d31e-48b2-9082-ff176cad5bd0.png#gh-dark-mode-only" alt="Bash" title="Bash" width="25" height="25"/></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg#light-mode-only" alt="Bash" title="Bash" width="25" height="25"/></code></a>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="25" height="25"/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" title="PostgreSQL" width="25" height="25"/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="25" height="25"/></code>&nbsp;
+<code><img src="https://user-images.githubusercontent.com/122950707/224746668-4b67c94b-146e-4f41-80c1-27b5b8c39819.png" alt="SourcePawn" title="SourcePawn" width="25" height="25"/></code>&nbsp;
+<a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224748670-04706379-2d4c-41fd-be7c-dc0b9f3ea133.png" alt="LaTeX" title="LaTeX" width="25" height="25"/></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224859537-7890e729-bc88-43e3-ba22-724d0062b0a6.png#light-mode-only" alt="LaTeX" title="LaTeX" width="25" height="25"/></code></a>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="25" height="25"/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="25" height="25"/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="25" height="25"/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="25" height="25"/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="25" height="25"/></code>&nbsp;
+<code><img src="https://user-images.githubusercontent.com/122950707/224750680-8facda47-719f-4eb3-bc3d-6b85d4f0e499.png" alt="Ajax" title="Ajax" width="25" height="25"/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="25" height="25"/></code>&nbsp;
+<code><img src="https://user-images.githubusercontent.com/122950707/224752240-9c723bd1-375f-417b-9e42-a61261ec529f.png" alt="Framer Motion" title="Framer Motion" width="25" height="25"/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" title="ReactJS" width="25" height="25"/></code>&nbsp;
+<a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224753389-327ee6b1-56e3-442c-8265-67fbf197f93a.png#gh-dark-mode-only" alt="Next.js" title="Next.js" width="25" height="25"/></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224854910-2e6bf496-7d9b-4375-989e-939e6e9c350a.png#light-mode-only" alt="Next.js" title="Next.js" width="25" height="25"/></code></a>&nbsp;
 </div>
 <br>
 <pre>
 dennisabrams@github:~/aboutme$ exit
 </pre>
-
