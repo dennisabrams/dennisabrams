@@ -45,12 +45,12 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="25" height="25"/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/122950707/224746123-1e2887c3-d31e-48b2-9082-ff176cad5bd0.png" width="25" height="25"/></code>&nbsp;
+<a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224746123-1e2887c3-d31e-48b2-9082-ff176cad5bd0.png#gh-dark-mode-only" width="25" height="25"/></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg#light-mode-only" width="25" height="25"/></code></a>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25"/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="25" height="25"/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" height="25"/></code>&nbsp;
 <code><img src="https://user-images.githubusercontent.com/122950707/224746668-4b67c94b-146e-4f41-80c1-27b5b8c39819.png" width="25" height="25"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/122950707/224748670-04706379-2d4c-41fd-be7c-dc0b9f3ea133.png" width="25" height="25"/></code>&nbsp;
+<a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224748670-04706379-2d4c-41fd-be7c-dc0b9f3ea133.png" width="25" height="25"/></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224859537-7890e729-bc88-43e3-ba22-724d0062b0a6.png#light-mode-only" width="25" height="25"/></code></a>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25"/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25"/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"/></code>&nbsp;
