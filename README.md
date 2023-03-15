@@ -9,8 +9,8 @@
   src="https://komarev.com/ghpvc/?username=dennisabrams&color=58A6FF&style=for-the-badge"
   alt="dennisabrams-views"
 />
-<br/><br/>
-<p align="center"><q><i><b>Creativity has no limits as long as enough memory space is available.</b></i></q></p>
+<br/><br/><br>
+<p size="110" align="center"><q><i><b>Creativity has no limits as long as enough memory space is available.</b></i></q></p>
 <br/>
 <pre>
 dennisabrams@github:~$ ./hell.sh
@@ -26,7 +26,7 @@ dennisabrams@github:~$ cd aboutme/
 </pre>
 <h2>About me</h2>
 <p>
-I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at the <a href="https://www.hs-hannover.de/en/">University of Applied Sciences and Arts</a> 🏛, Department of Media Design and Computer Science 🖥️. In my free time I do my own projects which I enjoy and learn a lot of new things 🖼. You can explore my projects on <a href="https://dennis-abrams.com">my website</a>.
+I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at the <a href="https://www.hs-hannover.de/en/">University of Applied Sciences and Arts</a> 🏛, Department of Media Design and Computer Science 🖥️. In my free time I do my own projects which I enjoy and learn a lot of new things. You can explore my projects on <a href="https://dennis-abrams.com">my website</a> 🌐.
 </p>
 <h4>My degrees</h4>
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dennisabrams&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&hide=issues,contribs&hide_title=true&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff" />
@@ -65,8 +65,11 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 </div>
 <br>
 <h4>Tasks</h4>
+<img align="left" width="50%" src="https://github-profile-trophy.vercel.app/?username=dennisabrams&no-frame=true&margin-w=-20&no-bg=true&theme=nord" />
 <p>
-I am currently adding more features to my teamspeak3 banner script and completing my website while programming some plugins for my community. I'm gladly open for new ideas or contributions 
+I am currently adding more features ✨ to <a href="https://github.com/dennisabrams?tab=repositories">my repositories</a> and completing <a href="https://dennis-abrams.com">my website</a> 🌐 while programming some plugins for <a href="https://projekt-eleven.eu/">my community</a> ❤️. I'm gladly open to new ideas or contributions. You can <a href="mailto:contact@dennis-abrams.com">contact me</a> 📧 anytime and I'll try to answer within 24h ⏳.
+</p>
+<br>
 <pre>
 dennisabrams@github:~/aboutme$ exit
 </pre>
