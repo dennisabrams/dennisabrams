@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, my name is [Dennis Abrams](https://github.com/dennisabrams)
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, my name is <a href="https://github.com/dennisabrams">Dennis Abrams</a></h1>
 <img 
   align="left"
   src="https://github.com/dennisabrams/dennisabrams/blob/main/images/typing.svg"
@@ -41,6 +41,7 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 <h4>Languages & Technologies</h4>
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dennisabrams&layout=compact&langs_count=6&bg_color=00000000&hide_border=true&hide_title=true&text_color=c9d1d9" />
 
+<br>
 <div align="center">
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="25" height="25"/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="25" height="25"/></code>&nbsp;
@@ -63,6 +64,10 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 <a href="https://github.com/dennisabrams#gh-dark-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224753389-327ee6b1-56e3-442c-8265-67fbf197f93a.png#gh-dark-mode-only" alt="Next.js" title="Next.js" width="25" height="25"/></code></a><a href="https://github.com/dennisabrams#gh-light-mode-only"><code><img src="https://user-images.githubusercontent.com/122950707/224854910-2e6bf496-7d9b-4375-989e-939e6e9c350a.png#light-mode-only" alt="Next.js" title="Next.js" width="25" height="25"/></code></a>&nbsp;
 </div>
 <br>
+<h4>Tasks</h4>
+<p>
+I am currently adding more features to my teamspeak3 banner script and completing my website while programming some plugins for my community. I'm gladly open for new ideas or contributions 
 <pre>
 dennisabrams@github:~/aboutme$ exit
 </pre>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03599c,100:58a6ff&section=footer&height=100" />
