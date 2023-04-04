@@ -71,7 +71,7 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 I am currently adding more features ✨ to <a href="https://github.com/dennisabrams?tab=repositories">my repositories</a> and completing <a href="https://dennis-abrams.com">my website</a> 🌐 while programming some plugins for <a href="https://projekt-eleven.eu/">my community</a> ❤️.
 </p>
 <p>
-I'm gladly open to new ideas or contributions. You can <a href="mailto:contact@dennis-abrams.com">contact me</a> anytime and I will try to answer within 24 hours 🕒.
+I'm gladly open to new ideas or contributions. You can <a href="mailto:contact@dennis-abrams.com">contact me</a> 📧 anytime and I will try to answer within 24 hours 🕒.
 </p>
 <br>
 <pre>
