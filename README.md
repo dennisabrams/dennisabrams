@@ -67,7 +67,10 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 <h4>Tasks</h4>
 <img align="left" src="https://streak-stats.demolab.com?user=dennisabrams&theme=transparent&hide_border=true&ring=58a6ff&fire=eb5409&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=3F84E4" />
 <p>
-I am currently adding more features ✨ to <a href="https://github.com/dennisabrams?tab=repositories">my repositories</a> and completing <a href="https://dennis-abrams.com">my website</a> 🌐 while programming some plugins for <a href="https://projekt-eleven.eu/">my community</a> ❤️. I'm gladly open to new ideas or contributions. You can <a href="mailto:contact@dennis-abrams.com">contact me</a> 📧 anytime and I will try to answer within 24 hours 🕒.
+I am currently adding more features ✨ to <a href="https://github.com/dennisabrams?tab=repositories">my repositories</a> and completing <a href="https://dennis-abrams.com">my website</a> 🌐 while programming some plugins for <a href="https://projekt-eleven.eu/">my community</a> ❤️.
+</p>
+<p>
+I'm gladly open to new ideas or contributions. You can <a href="mailto:contact@dennis-abrams.com">contact me</a> 📧 anytime and I will try to answer within 24 hours 🕒.
 </p>
 <pre>
 dennisabrams@github:~/aboutme$ exit
