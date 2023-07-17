@@ -18,7 +18,7 @@
   alt="dennisabrams"
 />
 </div>
-<p size="110" align="center"><q><i><b>Creativity has no limits as long as enough memory space is available.</b></i></q></p>
+<p size="110" align="center"><i><b>Welcome to my GitHub Profile!</b></i></p>
 
 <pre>
 dennisabrams@github:~$ ./hell.sh
