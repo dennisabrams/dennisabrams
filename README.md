@@ -81,7 +81,7 @@ I am currently adding more features ✨ to <a href="https://github.com/dennisabr
 <p>
 I'm gladly open to new ideas or contributions. You can <a href="mailto:contact@dennis-abrams.com">contact me</a> 📧 anytime and I will try to answer within 24 hours 🕒.
 </p>
-<br><br>
+<br>
 
 <pre>
 dennisabrams@github:~/aboutme$ cd ../repositories/popular/
