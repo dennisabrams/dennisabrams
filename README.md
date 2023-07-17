@@ -10,7 +10,7 @@
   src="https://komarev.com/ghpvc/?username=dennisabrams&color=3F84E4&style=for-the-badge"
   alt="dennisabrams-views"
 />
-<br/><br/>
+<br/>
 <div align="center">
 <img
   width="100"
