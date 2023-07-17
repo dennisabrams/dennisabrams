@@ -1,4 +1,5 @@
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, my name is <a href="https://github.com/dennisabrams">Dennis Abrams</a></h1>
+<h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, my name is <a href="https://github.com/dennisabrams">Dennis Abrams</a></h1>
+
 <img 
   align="left"
   src="https://github.com/dennisabrams/dennisabrams/blob/main/images/typing.svg"
@@ -9,8 +10,16 @@
   src="https://komarev.com/ghpvc/?username=dennisabrams&color=3F84E4&style=for-the-badge"
   alt="dennisabrams-views"
 />
-<br/><br/><br>
+<br/><br/><br/>
+<div align="center">
+<img
+  width="100"
+  src="https://github.com/dennisabrams/my-website/assets/122950707/a4f75ee9-e61c-4d23-8fd4-525202f853f0"
+  alt="dennisabrams"
+/>
+</div>
 <p size="110" align="center"><q><i><b>Creativity has no limits as long as enough memory space is available.</b></i></q></p>
+
 <br/>
 <pre>
 dennisabrams@github:~$ ./hell.sh
