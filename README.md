@@ -10,7 +10,7 @@
   src="https://komarev.com/ghpvc/?username=dennisabrams&color=3F84E4&style=for-the-badge"
   alt="dennisabrams-views"
 />
-<br/>
+<br/><br/>
 <div align="center">
 <img
   width="100"
@@ -20,7 +20,6 @@
 </div>
 <p size="110" align="center"><q><i><b>Creativity has no limits as long as enough memory space is available.</b></i></q></p>
 
-<br/>
 <pre>
 dennisabrams@github:~$ ./hell.sh
 bash: ./hell.sh: No such file or directory
