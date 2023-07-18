@@ -21,15 +21,25 @@
 <p size="110" align="center"><i><b>Welcome to my GitHub Profile!</b></i></p>
 
 <pre>
-dennisabrams@github:~$ ./hell.sh
-bash: ./hell.sh: No such file or directory
-dennisabrams@github:~$ ./hello.sh
-.  .   ..             .           .                 ,                .__   , .  .   .             ._ .    | 
-|__| _ || _    _.._  _|  .    , _ | _. _ ._ _  _   -+- _   ._ _   .  [ __*-+-|__|. .|_   ._ ._. _ |,*| _  | 
-|  |(/,||(_)  (_][ )(_]   \/\/ (/,|(_.(_)[ | )(/,   | (_)  [ | )\_|  [_./| | |  |(_|[_)  [_)[  (_)| ||(/, * 
-                                                                ._|                      |                 
+Welcome to Abrams 14.01 LTS (Earth 9.6.0-146-generic solar_sys)
+
+ * Documentation:  <a href="https://github.com/dennisabrams">https://github.com/dennisabrams</a>
+ * Management:     <a href="https://dennis-abrams.com">https://dennis-abrams.com</a>
+ * Support:        <a href="mailto:contact@dennis-abrams.com">contact@dennis-abrams.com</a>
+  
+25 additional security updates can be applied with motivation.
+Learn more about enabling motivation service at <a href="https://en.wikipedia.org/wiki/Motivation">https://en.wikipedia.org/wiki/Motivation</a>
+
+*** System restart required ***
+
+dennisabrams@github:~$ ./quot.sh
+bash: ./quot.sh: No such file or directory
+dennisabrams@github:~$ ./quote.sh
+
+<b>Creativity has no limits as long as enough memory space is available.</b>
+
 dennisabrams@github:~$ ls -a
-. .. .bash_history .bash_logout .bashrc .config .hal9000 .profile .viminfo aboutme hello.sh projects repositories
+. .. .bash_history .bash_logout .bashrc .config .hal9000 .profile .viminfo aboutme projects quote.sh repositories
 dennisabrams@github:~$ cd aboutme/
 </pre>
 <h2>About me</h2>
@@ -86,4 +96,3 @@ I'm gladly open to new ideas or contributions. You can <a href="mailto:contact@d
 <pre>
 dennisabrams@github:~/aboutme$ cd ../repositories/popular/
 </pre>
-
