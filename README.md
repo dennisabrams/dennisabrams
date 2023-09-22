@@ -1,4 +1,4 @@
-<h1 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>, my name is <a href="https://github.com/dennisabrams">Dennis Abrams</a></h1>
+<h1 align="left">Hi there 👋, my name is <a href="https://github.com/dennisabrams">Dennis Abrams</a></h1>
 
 <img 
   align="left"
