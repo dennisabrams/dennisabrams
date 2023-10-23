@@ -13,7 +13,7 @@
 <br/><br/>
 <div align="center">
 <img
-  width="120"
+  width="100"
   src="https://github.com/dennisabrams/dennisabrams/assets/122950707/6fb264a0-6bc4-4da1-9363-cb9093d24307"
   alt="dennisabrams"
 />
