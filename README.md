@@ -13,8 +13,8 @@
 <br/><br/>
 <div align="center">
 <img
-  width="100"
-  src="https://github.com/dennisabrams/my-website/assets/122950707/a4f75ee9-e61c-4d23-8fd4-525202f853f0"
+  width="120"
+  src="https://github.com/dennisabrams/dennisabrams/assets/122950707/6fb264a0-6bc4-4da1-9363-cb9093d24307"
   alt="dennisabrams"
 />
 </div>
