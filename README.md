@@ -89,7 +89,7 @@ I am 24 years old 🎈 and currently studying for a Bachelor's degree 📃 at th
 I am currently adding more features ✨ to <a href="https://github.com/dennisabrams?tab=repositories">my repositories</a> and completing <a href="https://dennis-abrams.com">my website</a> 🌐 while programming some plugins for <a href="https://projekt-eleven.eu/">my community</a> ❤️.
 </p>
 <p>
-Most of the time I communicate over <a href="https://en.wikipedia.org/wiki/IP_over_Avian_Carriers">IPoAC</a> 🕊️ and I prefer to receive problems over it too, but you can <a href="mailto:hello@dennis-abrams.com">contact me</a> me via email 📧 as well.
+Most of the time I communicate over <a href="https://en.wikipedia.org/wiki/IP_over_Avian_Carriers">IPoAC</a> 🕊️ and I prefer to receive problems over it too, but you can <a href="mailto:hello@dennis-abrams.com">contact me</a> me via email 📧 as well 😉.
 </p>
 <br>
 
